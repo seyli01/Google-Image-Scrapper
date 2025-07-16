@@ -14,13 +14,3 @@ Un scraper simple en Rust pour effectuer des recherches d’images sur Google et
 - Utilisation asynchrone avec `tokio` et `reqwest`
 
 ---
-
-## Installation
-
-Assurez-vous d’avoir installé Rust et Cargo : https://rustup.rs/
-
-Clonez ce dépôt :
-
-```bash
-git clone https://github.com/ton-utilisateur/google-images-scraper-rust.git
-cd google-images-scraper-rust
